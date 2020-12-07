@@ -1,1 +1,1 @@
-# ducky-generator
+# Ducky script template

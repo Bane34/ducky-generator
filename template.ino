@@ -20,7 +20,7 @@ void start(){
 
     ///PUT YOUR OWN CODE DOWN HERE///
     
-    Keyboard.end();
+    Keyboard.end(); //Do not delete this, otherwise the keyboard will get crazy
     digitalWrite(LED_BUILTIN, LOW);
 }
 
